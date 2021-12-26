@@ -1,0 +1,23 @@
+
+
+#stopwatch_container {
+  width: 100%;
+}
+
+#timer {
+  height: 200px;
+  font-size: 35px;
+  display: table-cell;
+  vertical-align: middle;
+  padding: 0 25px;
+}
+
+#stopwatch_buttons {
+  display: flex;
+  height: 50px;
+}
+
+#start, #stop, #reset{
+  width: 100px;
+  margin-left: 5px;
+}
